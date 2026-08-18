@@ -2,6 +2,12 @@
 
 Projeto desenvolvido para demonstrar a criação de tabelas, chaves estrangeiras e relacionamentos utilizando Laravel, Eloquent ORM e MySQL.
 
+## Vídeo da apresentação
+
+[![Assistir à apresentação](https://img.youtube.com/vi/qL2DfpZXaJs/hqdefault.jpg)](https://youtu.be/qL2DfpZXaJs)
+
+[Assistir ao vídeo completo no YouTube](https://youtu.be/qL2DfpZXaJs)
+
 ## Tecnologias utilizadas
 
 - PHP
